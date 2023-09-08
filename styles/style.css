@@ -1,10 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Krona+One&family=Montserrat:wght@400;600&display=swap');
 
 :root {
-    --cor-primaria:  #8B1874;
-    --cor-secundaria: #F79540;
-    --cor-terciaria: #FC4F00;
-    --cor-hover: #B71375;
+    --cor-primaria:  #000000;
+    --cor-secundaria: #F6F6F6;
+    --cor-terciaria: #22D4FD;
+    --cor-hover: #272727;
 
     --texto-primario: 'Krona One', sans-serif;
     --texto-secundario: 'Montserrat', sans-serif;
@@ -131,7 +131,6 @@ body {
 
     .apresentacao {
         flex-direction: column-reverse;
-        margin: auto;
         padding: 5%;
     }
 
